@@ -1,0 +1,26 @@
+.Head{
+    background-color: #006699;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Times New Roman", Times, serif;
+}
+#Emojies{
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Times New Roman", Times, serif;
+}
+#Emojies{
+    flex-wrap: wrap;
+    justify-content: center;
+    border: dashed;
+    border-color: #006699;
+    border-width: 2px;
+    border-radius: 10px;
+    botder-size: 10px;
+}
+/*** Align border near to the emojies ***/
+
+
