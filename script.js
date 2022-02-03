@@ -244,3 +244,5 @@ const emoji = {
     "&#x1FAA8;": "🪨",
 }
 console.log(emoji);
+
+/dynamics , loops, inner htmls/
